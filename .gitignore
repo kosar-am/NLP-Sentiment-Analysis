@@ -16,7 +16,7 @@ hf_cache/
 # Dataset files
 data/raw/
 data/processed/
-data/cleaned/
+data/clean/
 
 # Trained models and checkpoints
 models/
